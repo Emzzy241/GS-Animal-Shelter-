@@ -1,0 +1,51 @@
+/* Styling the universal selector  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightsalmon;
+}
+
+/* Styling the Detailed profile's navigation section  */
+
+ul label{
+    color: darkgoldenrod;
+    font-size: 25px;
+    margin-right: 700px;
+    font-weight: 900;
+}
+
+ul label em{
+    color: lightgray;
+}
+
+ul .nav-link{
+    color: aliceblue;
+}
+
+.container-fluid h3,p{
+    color: black;
+}
+
+/* Styling the banner image for  */
+.myBanner{
+    text-align: center;
+}
+.myBanner h3{
+    color: darkgoldenrod;
+    font-size: 60px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.myBanner h3 em{
+    color: lightgray;
+}
+.myBanner p{
+    color: black;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
