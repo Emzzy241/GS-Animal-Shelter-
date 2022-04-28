@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Styling the navigation section  */
+
+ul label{
+    color: darkgoldenrod;
+    font-size: 25px;
+    margin-right: 700px;
+    font-weight: 750;
+}
+ul label em{
+    color: lightgray;
+}
+
+
+
+ul .nav-link{
+    color: aliceblue;
+}
