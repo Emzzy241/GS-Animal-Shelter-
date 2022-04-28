@@ -4,10 +4,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body{
-    background-color: lightsalmon;
+    color: lightsalmon;
 }
-/* Styling the navigation section  */
+
+/* Styling the Detailed profile's navigation section  */
 
 ul label{
     color: darkgoldenrod;
@@ -15,11 +17,10 @@ ul label{
     margin-right: 700px;
     font-weight: 900;
 }
+
 ul label em{
     color: lightgray;
 }
-
-
 
 ul .nav-link{
     color: aliceblue;
