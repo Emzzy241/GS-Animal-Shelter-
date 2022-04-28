@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: lightsalmon;
+}
 /* Styling the navigation section  */
 
 ul label{
@@ -20,4 +22,8 @@ ul label em{
 
 ul .nav-link{
     color: aliceblue;
+}
+
+.container-fluid h3,p{
+    color: black;
 }
