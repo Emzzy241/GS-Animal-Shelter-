@@ -59,20 +59,3 @@ ul .nav-link{
     text-align: center;
 }
 
-<!-- After adding the nav bar and the dropdown, let us do a commit -->
-
-    <!-- The Banner Section  -->
-
-    <div class="container myBanner"> <br><br>
-        <h3>Contact us now at <em>GS</em> Animal Shelter</h3>
-        <p>Don't forget what we do, we make a great Habitat for animals. You can still join us now</p>
-        <a href="./Detailed Profile.html" class="btn btn-outline-warning">Join Us Now</a>
-
-    </div> <br> <br>
-
-    <div class="container company">
-        <h3> While we keep making Animals feel safe, there are simpler ways for you to get in touch and answer your questions
-        </h3>
-        <a href="" class="btn btn-success">Contact GS Today</a>
-
-    </div>
