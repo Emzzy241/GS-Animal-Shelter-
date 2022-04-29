@@ -26,13 +26,20 @@ ul .nav-link{
 }
 
 .container-fluid h3,p{
-    color: black;
+    color: white;
+}
+/* Styling the list part of our website  */
+
+
+.List p{
+    color: black ;
+    
 }
 
 /* Styling the banner image for  */
 .myBanner{
     text-align: center;
-}
+} 
 .myBanner h3{
     color: darkgoldenrod;
     font-size: 60px;
@@ -43,8 +50,8 @@ ul .nav-link{
     color: lightgray;
 }
 .myBanner p{
-    color: black;
+    color: white;
     font-size: 20px;
     text-transform: capitalize;
-    text-align: center;
+     text-align: center; 
 }
